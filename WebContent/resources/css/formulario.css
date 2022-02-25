@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+*{
+ margin: 0 auto;
+ font-family: Arial;
+ 
+}
+body{
+	background-color: #35495e;
+}
+
+
+.cuerpo{
+	height: 93vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+input{
+	
+}
